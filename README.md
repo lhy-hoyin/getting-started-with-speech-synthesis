@@ -1,0 +1,1 @@
+StackUp Campaign: [Getting Started with Speech Synthesis](https://earn.stackup.dev/campaigns/getting-started-with-speech-synthesis)
